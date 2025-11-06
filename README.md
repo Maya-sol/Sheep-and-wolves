@@ -1,5 +1,5 @@
 # Sheep-and-wolves
-Game discribtion and rules:
+Game describtion and rules:
 
 "Sheep and Wolves"  is a traditional board game of checkers for two players. One player has one white checker (the "sheep"), and the other has four black checkers (the "wolves").
 
